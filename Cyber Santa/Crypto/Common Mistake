@@ -1,1 +1,5 @@
+Common modulus attack book example
 
+Tools that can be used : RsaCtfTools, RSA-Common-Modulus-Attack, RSHack
+
+With RSHack, select the Common modulus attack option, give the decimal value of n, e1, e2, c1 and c2. Done.
